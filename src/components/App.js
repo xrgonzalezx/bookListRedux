@@ -8,7 +8,7 @@ class App extends Component {
     render() {
         return (
             <div className="row">
-                <h1>Books N' Roses: Appetite for Instruction</h1>
+                <h1>Books N Roses: Appetite for Instruction</h1>
                 <BookList/>
                 <BookDetail/>
             </div>
